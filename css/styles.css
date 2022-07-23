@@ -1,0 +1,136 @@
+img {
+  width: 350px;
+  padding-top: 100px;
+}
+
+#background-one {
+  background-color: pink;
+  width: 350px;
+  height: 950px;
+  text-align: center;
+}
+
+.items-style {
+  font-size: 30px;
+  color: white;
+  text-decoration: none;
+}
+
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  padding: 50px;
+  margin-right: 40px;
+  text-align: center;
+}
+
+#background-one,
+#background-two {
+  display: inline-block;
+}
+
+h1 {
+  font-size: 60px;
+  font-weight: 350px;
+  margin-inline-start: 50px;
+}
+
+ul {
+  padding-left: 8px;
+}
+
+h3 {
+  margin-inline-start: 50px;
+}
+
+#list-two-items,
+#background-two-white {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  display: inline-block;
+}
+
+.flex-container {
+  display: flex;
+}
+
+.linear-bar {
+  display: block;
+  width: 14em;
+  height: 1.5em;
+  background-color: pink;
+  align-items: baseline;
+}
+.niveau-one {
+  display: block;
+  width: 10em;
+  height: 1.5em;
+  background-color: #ef4ca4;
+  align-items: baseline;
+}
+
+.niveau-two {
+  display: block;
+  width: 7em;
+  height: 1.5em;
+  background-color: #ef4ca4;
+  align-items: baseline;
+}
+
+.niveau-three {
+  display: block;
+  width: 11em;
+  height: 1.5em;
+  background-color: #ef4ca4;
+  align-items: baseline;
+}
+
+.niveau-four {
+  display: block;
+  width: 9em;
+  height: 1.5em;
+  background-color: #ef4ca4;
+  align-items: baseline;
+}
+
+.niveau-five {
+  display: block;
+  width: 5em;
+  height: 1.5em;
+  background-color: #ef4ca4;
+  align-items: baseline;
+}
+
+.niveau-six {
+  display: block;
+  width: 12em;
+  height: 1.5em;
+  background-color: #ef4ca4;
+  align-items: baseline;
+}
+.items-style-two {
+  font-size: 20px;
+  text-align: left;
+}
+
+#flex-box {
+  display: inline-block;
+}
+
+.start {
+  margin-inline-start: 50px;
+}
+
+.li-style-class {
+  padding: 0px;
+  margin-left: 50px;
+  text-align: left;
+  list-style-type: disc;
+}
